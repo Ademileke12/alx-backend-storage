@@ -1,4 +1,4 @@
-# ```Mandatory```
+# ```Mandatory.```
 
 ## Writing strings to Redis
 
